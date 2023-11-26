@@ -24,12 +24,12 @@
 
 ## 2. 목표
 
-프로그래밍 언어, 데이터베이스, 네트워크 통신 등 학교에서 배운 전공 지식 활용<br>
-Java Swing GUI 구현<br>
-소켓 통신, 멀티 스레드 구현<br>
-Python, OpenCV, Tesseract 등 새로운 언어와 툴 학습<br>
-Raspberry Pi를 이용한 사물인터넷 구현<br>
-이미지 프로세싱을 통한 번호판 인식 구현
+- 프로그래밍 언어, 데이터베이스, 네트워크 통신 등 학교에서 배운 전공 지식 활용<br>
+- Java Swing GUI 구현<br>
+- 소켓 통신, 멀티 스레드 구현<br>
+- Python, OpenCV, Tesseract 등 새로운 언어와 툴 학습<br>
+- Raspberry Pi를 이용한 사물인터넷 구현<br>
+- 이미지 프로세싱을 통한 번호판 인식 구현
 
 ## 3. 역할
 
