@@ -84,6 +84,7 @@ Tesseract-OCR 엔진을 Python에서 사용할 수 있게 해주는 pytesseract 
 ---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><p>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f9724c4c-1607-46c8-b9a6-38bae6d9a248" width="800"/><p>
 
 > 주차장 모형
 
