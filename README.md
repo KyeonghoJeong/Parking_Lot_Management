@@ -37,7 +37,8 @@ Raspberry Pi를 이용한 사물인터넷 구현<br>
 관리자용 PC 프로그램 기능 및 GUI 디자인<br>
 관리자용 PC 프로그램 Java 프로그래밍<br>
 라즈베리파이 동작 과정 설계<br>
-라즈베리파이 Python 프로그래밍
+라즈베리파이 Python 프로그래밍<br>
+
 - 팀원
 OpenCV & Pytesseract 번호판 인식 및 검출<br>
 모형 디자인 및 제작<br>
