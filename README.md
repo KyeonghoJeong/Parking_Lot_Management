@@ -58,7 +58,7 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 
 > 순서도
 
-#### Java 서버
+### Java 서버
 이번 프로젝트를 통해 전공과목으로 수강했던 객체지향프로그래밍의 내용을 더 깊게 이해하기 위해 개발 언어로 Java를 선택하였음.<p><p>
 a_gui 클래스에는 GUI 구성 요소와 기능을 구현하였고 서버 소켓으로 동작하도록 하였으며 b_server 클래스와 c_manager 클래스는 Runnable 인터페이스를 상속받아 멀티 스레드로 동작하도록 하였음.<p><p>
 멀티 스레드를 통해 a_gui 클래스는 GUI 관련 동작과 클라이언트 연결 요청을 둘 다 처리할 수 있으며 b_server 클래스는 각 주차구역(클라이언트) 별로 연결 요청 처리 및 c_manager 클래스의 인스턴스를 생성할 수 있음.<p><p>
