@@ -160,19 +160,19 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bfa63998-4c68-4ff8-97f7-ce9d5204db6b"/><br>
 
-- 주차기록 조회 옵션 버튼 (전체/금일/현재/위반)
+> 주차기록 조회 옵션 버튼 (전체/금일/현재/위반)
 
 ---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/4103379a-b4aa-4500-856b-c1a6e9bb2e4b"/><br>
 
-- 주차기록 날짜 옵션 조회
+> 주차기록 날짜 옵션 조회
 
 ---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/69f83e78-8ac9-45a0-a8f7-e545078ee124"/><br>
 
-- 차량 정보 데이터베이스 조회
+> 차량 정보 데이터베이스 조회
 
 ---
 
