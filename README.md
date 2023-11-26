@@ -53,7 +53,7 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 
 ## 5. 프로젝트 구조
 
-#### 순서도
+- 순서도
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/b6537ae0-4e30-45bf-8099-2dab52383b57" width="500"><br>
 
@@ -69,7 +69,7 @@ GUI: Java Swing WindowBuilder로 구현<br>
 
 ---
 
-#### 주차장 모형 전면
+- 주차장 모형 전면
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><br>
 
@@ -85,7 +85,7 @@ GUI: Java Swing WindowBuilder로 구현<br>
 
 ---
 
-#### 주차장 모형 후면
+- 주차장 모형 후면
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f9724c4c-1607-46c8-b9a6-38bae6d9a248" width="800"/><br>
 
