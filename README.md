@@ -55,12 +55,15 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/b6537ae0-4e30-45bf-8099-2dab52383b57" width="500"><br>
 
-- Java 서버: 소켓으로 연결된 각 주차구역 클라이언트를 멀티 스레드로 처리
-  
-- Python 클라이언트: 주차구역을 클래스로 정의하고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 처리
-- MySQL: 로그인 처리, 조건에 맞는 주차기록을 테이블에 출력, 차량 정보 등록/조회/수정/삭제, 위반 여부 기록
-- GUI: Java Swing WindowBuilder로 구현
-- 동영상 재생: EmbeddedMediaPlayerComponent 객체 생성으로 재생
+Java 서버: 소켓으로 연결된 각 주차구역 클라이언트를 멀티 스레드로 처리<br>
+
+Python 클라이언트: 주차구역을 클래스로 정의하고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 처리<br>
+
+MySQL: 로그인 처리, 조건에 맞는 주차기록을 테이블에 출력, 차량 정보 등록/조회/수정/삭제, 위반 여부 기록<br>
+
+GUI: Java Swing WindowBuilder로 구현<br>
+
+동영상 재생: EmbeddedMediaPlayerComponent 객체 생성으로 재생
 
 ---
 
@@ -68,11 +71,15 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><br>
 
-- 차량 진입 감지: 초음파센서로 거리 변화를 감지하여 주차를 판단하고 웹캠과 OpenCV 라이브러리로 차량을 촬영
-- 데이터 전송: 클라이언트와 서버가 소켓을 통해 주차구역 번호, 주차시간, 차량번호, 위반 여부, 동영상을 주고받음
-- 일반 차량: 위반 사항이 없으면 LED를 초록색으로 점등하고 서버는 주차 기록을 출력
-- 위반 차량: LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주차구역 위에 있을 경우에는 LED를 빨간색으로 점등하고 서버는 주차 기록을 출력
-- 출차 판단: 다시 초음파센서를 동작시켜 거리 변화를 감지해 출차를 판단하고 출차로 판단되면 출차 시간을 서버로 전송하고 서버는 이를 출력
+차량 진입 감지: 초음파센서로 거리 변화를 감지하여 주차를 판단하고 웹캠과 OpenCV 라이브러리로 차량을 촬영<br>
+
+데이터 전송: 클라이언트와 서버가 소켓을 통해 주차구역 번호, 주차시간, 차량번호, 위반 여부, 동영상을 주고받음<br>
+
+일반 차량: 위반 사항이 없으면 LED를 초록색으로 점등하고 서버는 주차 기록을 출력<br>
+
+위반 차량: LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주차구역 위에 있을 경우에는 LED를 빨간색으로 점등하고 서버는 주차 기록을 출력<br>
+
+출차 판단: 다시 초음파센서를 동작시켜 거리 변화를 감지해 출차를 판단하고 출차로 판단되면 출차 시간을 서버로 전송하고 서버는 이를 출력
 
 ---
 
