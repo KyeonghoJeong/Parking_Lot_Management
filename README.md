@@ -85,11 +85,11 @@ Tesseract-OCR 엔진을 Python에서 사용할 수 있게 해주는 pytesseract 
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f9724c4c-1607-46c8-b9a6-38bae6d9a248" width="800"/><p>
 
-> 주차장 후면 모형
+> 주차장 모형 후면
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><p>
 
-> 주차장 전면 모형
+> 주차장 모형 전면
 
 ### 주차 판단
 초음파센서(HC-SR04)로 거리 변화를 감지하여 주차를 판단하고 웹캠과 OpenCV 라이브러리로 차량 모습을 캡처.
