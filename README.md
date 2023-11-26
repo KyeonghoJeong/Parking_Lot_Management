@@ -99,7 +99,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><br>
 
-#### 관리자 프로그램 (Java 서버)
+> 관리자 프로그램 (Java 서버)
 
 - 로그인 기능
 
@@ -107,7 +107,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><br>
 
-#### 관리자 프로그램 (Java 서버)
+> 관리자 프로그램 (Java 서버)
 
 - 위반 차량 판단
 - 주차장 전체 스트리밍 재생
@@ -119,7 +119,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/><br>
 
-#### 주차구역 (Raspberry Pi Python 클라이언트)
+> 주차구역 (Raspberry Pi Python 클라이언트)
 
 - 주차 판단
 - 번호판 인식
@@ -128,51 +128,51 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 ## 7. 데모 영상
 
-- 관리자 프로그램 로그인
-
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bb201f6c-ee81-4faa-a223-bd2a79efbcc8"/><br>
 
----
+> 관리자 프로그램 로그인
 
-- 장애인 주차구역 차량 진입
+---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9bf6de1a-e2f8-43e0-8696-94eb36addc02"/><br>
 
----
+> 장애인 주차구역 차량 진입
 
-- 번호판 인식 및 위반 차량 식별
+---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/8c580442-f367-45fa-83eb-fc1e416f0920"/><br>
 
----
+> 번호판 인식 및 위반 차량 식별
 
-- 위반 차량 영상 및 정보 확인
+---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/1fa7f881-9959-4f41-900a-12a821fd7f64"/><br>
 
----
+> 위반 차량 영상 및 정보 확인
 
-- 주차구역 실시간 스트리밍
+---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/aef21537-26af-41ae-bcfa-7fb73e077c28"/><br>
 
----
+> 주차구역 실시간 스트리밍
 
-- 주차기록 조회 옵션 버튼 (전체/금일/현재/위반)
+---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bfa63998-4c68-4ff8-97f7-ce9d5204db6b"/><br>
 
----
+- 주차기록 조회 옵션 버튼 (전체/금일/현재/위반)
 
-- 주차기록 날짜 옵션 조회
+---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/4103379a-b4aa-4500-856b-c1a6e9bb2e4b"/><br>
 
+- 주차기록 날짜 옵션 조회
+
 ---
 
-- 차량 정보 데이터베이스 조회
-
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/69f83e78-8ac9-45a0-a8f7-e545078ee124"/><br>
+
+- 차량 정보 데이터베이스 조회
 
 ---
 
