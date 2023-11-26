@@ -167,7 +167,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 차량이 그�
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/aef21537-26af-41ae-bcfa-7fb73e077c28"/><p>
 
-> 주차구역 실시간 스트리밍
+> 주차장 실시간 스트리밍
 
 ---
 
