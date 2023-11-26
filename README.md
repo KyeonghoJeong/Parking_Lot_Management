@@ -13,7 +13,7 @@
 
 ## 1. 프로젝트 소개
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/a1af6660-f366-4676-8137-401f0dd4e711" width="500"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/a1af6660-f366-4676-8137-401f0dd4e711" width="500"/><p><p>
 
 #### 줄지 않는 장애인 주차구역 위반 건수 2018년 414,409건 (출처: 보건복지부 제출자료)
 
@@ -54,7 +54,7 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 
 ## 5. 프로젝트 구조
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/b6537ae0-4e30-45bf-8099-2dab52383b57" width="500">
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/b6537ae0-4e30-45bf-8099-2dab52383b57" width="500"><p><p>
 
 > 순서도
 
@@ -83,7 +83,7 @@ Tesseract-OCR 엔진을 Python에서 사용할 수 있게 해주는 pytesseract 
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><p><p>
 
 > 주차장 모형 전면
 
@@ -104,7 +104,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f9724c4c-1607-46c8-b9a6-38bae6d9a248" width="800"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f9724c4c-1607-46c8-b9a6-38bae6d9a248" width="800"/><p><p>
 
 > 주차장 모형 후면
 
@@ -114,7 +114,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 ## 6. 주요 기능
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><p><p>
 
 > 관리자 프로그램 (Java 서버)
 
@@ -122,7 +122,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><p><p>
 
 > 관리자 프로그램 (Java 서버)
 
@@ -134,7 +134,7 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/><p><p>
 
 > 주차구역 (Raspberry Pi Python 클라이언트)
 
@@ -145,49 +145,49 @@ LED 점멸과 음성 경고 후 일정 시간이 지난 뒤에도 그대로 주�
 
 ## 7. 데모 영상
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bb201f6c-ee81-4faa-a223-bd2a79efbcc8"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bb201f6c-ee81-4faa-a223-bd2a79efbcc8"/><p><p>
 
 > 관리자 프로그램 로그인
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9bf6de1a-e2f8-43e0-8696-94eb36addc02"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9bf6de1a-e2f8-43e0-8696-94eb36addc02"/><p><p>
 
 > 장애인 주차구역 차량 진입
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/8c580442-f367-45fa-83eb-fc1e416f0920"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/8c580442-f367-45fa-83eb-fc1e416f0920"/><p><p>
 
 > 번호판 인식 및 위반 차량 식별
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/1fa7f881-9959-4f41-900a-12a821fd7f64"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/1fa7f881-9959-4f41-900a-12a821fd7f64"/><p><p>
 
 > 위반 차량 영상 및 정보 확인
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/aef21537-26af-41ae-bcfa-7fb73e077c28"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/aef21537-26af-41ae-bcfa-7fb73e077c28"/><p><p>
 
 > 주차구역 실시간 스트리밍
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bfa63998-4c68-4ff8-97f7-ce9d5204db6b"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bfa63998-4c68-4ff8-97f7-ce9d5204db6b"/><p><p>
 
 > 주차기록 조회 옵션 버튼 (전체/금일/현재/위반)
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/4103379a-b4aa-4500-856b-c1a6e9bb2e4b"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/4103379a-b4aa-4500-856b-c1a6e9bb2e4b"/><p><p>
 
 > 주차기록 날짜 옵션 조회
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/69f83e78-8ac9-45a0-a8f7-e545078ee124"/>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/69f83e78-8ac9-45a0-a8f7-e545078ee124"/><p><p>
 
 > 차량 정보 데이터베이스 조회
 
