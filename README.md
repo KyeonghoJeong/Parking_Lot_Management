@@ -3,10 +3,14 @@
 목차
 ----
 1. 프로젝트 소개
-2. 기술 스택
-3. 프로젝트 구조
-4. 주요 기능
-5. 데모 영상
+2. 목표
+3. 역할
+4. 기술 스택
+5. 프로젝트 구조
+6. 주요 기능
+7. 데모 영상
+8. 프로젝트 평가
+9. 회고
 
 ## 1. 프로젝트 소개
 
@@ -18,11 +22,38 @@
 
 주차구역 확인 및 기록 관리를 할 수 있으며 위반 차량 판단에 대한 경고, 안내, 기록까지 자동으로 처리되어 관리자가 직접 현장에 갈 필요 없이 프로그램의 여러 기능을 통해 쉽게 주차구역을 관리할 수 있음
 
-## 2. 기술 스택
+## 2. 목표
 
-Java, Java Swing, vlcj, MySQL, Raspberry Pi, Python, OpenCV, pytesseract
+프로그래밍 언어, 데이터베이스, 네트워크 통신 등 학교에서 배운 전공 지식 활용
+Java Swing GUI 구현
+소켓 통신, 멀티 스레드 구현
+Python, OpenCV, Tesseract 등 새로운 언어와 툴 학습
+Raspberry Pi를 이용한 사물인터넷 구현
+이미지 프로세싱을 통한 번호판 인식 구현
 
-## 3. 프로젝트 구조
+## 3. 역할
+
+- 본인
+
+관리자용 PC 프로그램 기능 및 GUI 디자인
+관리자용 PC 프로그램 Java 프로그래밍
+라즈베리파이 동작 과정 설계
+라즈베리파이 Python 프로그래밍
+
+- 팀원
+
+OpenCV & Pytesseract 번호판 인식 및 검출
+모형 디자인 및 제작
+프로그램 디버깅
+프로그램 실행 및 성능 평가
+졸업작품전시회 출품 및 결과 발표
+졸업작품 연구 보고서 작성 및 제출
+
+## 4. 기술 스택
+
+Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
+
+## 5. 프로젝트 구조
 
 - 순서도
 
@@ -30,7 +61,7 @@ Java, Java Swing, vlcj, MySQL, Raspberry Pi, Python, OpenCV, pytesseract
 
 Java 서버: 소켓으로 연결된 각 주차구역 클라이언트를 멀티 스레드로 처리<br>
 
-Python 클라이언트: 주차구역을 클래스로 정의하고 각 주차구역을 객체로 생성하여 멀티 스레드로 처리<br>
+Python 클라이언트: 주차구역을 클래스로 정의하고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 처리<br>
 
 MySQL: 로그인 처리, 조건에 맞는 주차기록을 테이블에 출력, 차량 정보 등록/조회/수정/삭제, 위반 여부 기록<br>
 
@@ -46,7 +77,7 @@ GUI: Java Swing WindowBuilder로 구현<br>
 
 차량 진입 감지: 초음파센서로 거리 변화를 감지하여 주차를 판단하고 웹캠과 OpenCV 라이브러리로 차량을 촬영<br>
 
-데이터 전송: 클라이언트와 서버가 소켓을 통해 구역번호, 주차시간, 차량번호, 위반 여부, 동영상을 주고받음<br>
+데이터 전송: 클라이언트와 서버가 소켓을 통해 주차구역 번호, 주차시간, 차량번호, 위반 여부, 동영상을 주고받음<br>
 
 일반 차량: 위반 사항이 없으면 LED를 초록색으로 점등하고 서버는 주차 기록을 출력<br>
 
@@ -64,29 +95,32 @@ GUI: Java Swing WindowBuilder로 구현<br>
 
 라즈베리파이는 촬영한 사진으로부터 번호판 영역을 검출하고 서버로 차량번호를 전송, 서버는 DB에 저장되어 있는 해당 번호의 장애인 등록 여부를 확인하여 위반 차량을 판단함
 
-## 4. 주요 기능
+## 6. 주요 기능
 
-- 번호판 및 차량 번호 인식
+- 관리자 프로그램 (Java 서버)
+
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><br>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><br>
+
+로그인 기능
+위반 차량 판단
+주차장 전체 스트리밍 재생
+주차 기록 차량 정보 조회 및 주차 당시 동영상 재생
+전체/금일/현재/위반/특정 날짜 별 주차 기록 조회
+차량 정보 조회/등록/수정/삭제
+
+---
+
+- 주차구역 (Raspberry Pi Python 클라이언트)
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/><br>
 
----
+주차 판단
+번호판 인식 
+LED 및 음성 메시지 알림
+출차 판단
 
-- 관리자 프로그램 로그인
-
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><br>
-
----
-
-- 관리자 프로그램
-
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><br>
-
-관리자는 GUI로 구현된 관리자 프로그램을 통해 쉽게 차량 정보를 조회, 등록, 수정, 삭제할 수 있으며 전체, 금일, 현재, 특정 날짜 검색, 위반 각각의 카테고리 별로 주차 기록, 위반 기록을 확인할 수 있음<br>
-
-주차 기록을 더블 클릭하여 해당 기록 차량의 당시 주차 모습을 동영상으로 확인할 수 있으며 전체 주차 구역의 실시간 상황도 동영상으로 확인할 수 있음 (동영상을 더블 클릭하면 확대하여 볼 수 있음)
-
-## 5. 데모 영상
+## 7. 데모 영상
 
 - 관리자 프로그램 로그인
 
@@ -135,3 +169,5 @@ GUI: Java Swing WindowBuilder로 구현<br>
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/69f83e78-8ac9-45a0-a8f7-e545078ee124"/><br>
 
 ---
+
+## 8. 프로젝트 평가
