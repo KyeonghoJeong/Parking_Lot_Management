@@ -34,7 +34,7 @@
 
 - #### 정경호
  
-    관리자 프로그램 기능 및 GUI 디자인<p>
+    관리자 프로그램 기능 구상 및 GUI 디자인<p>
     관리자 프로그램 Java 프로그래밍<p>
     Raspberry Pi 동작 과정 설계<p>
     Raspberry Pi Python 프로그래밍
