@@ -34,9 +34,9 @@
 
 - #### 정경호
  
-    관리자 프로그램 기능 구상 및 GUI 디자인
-    관리자 프로그램 Java 프로그래밍
-    Raspberry Pi 동작 과정 설계
+    관리자 프로그램 기능 구상 및 GUI 디자인<br>
+    관리자 프로그램 Java 프로그래밍<br>
+    Raspberry Pi 동작 과정 설계<br>
     Raspberry Pi Python 프로그래밍
 
 - #### 팀원
