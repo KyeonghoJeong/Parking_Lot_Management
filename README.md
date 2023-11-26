@@ -61,7 +61,7 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 ### Java 서버
 a_gui 클래스에는 GUI 구성 요소와 기능을 구현하였고 서버 소켓으로 동작하도록 하였으며 b_server 클래스와 c_manager 클래스는 Runnable 인터페이스를 상속받아 멀티 스레드로 동작하도록 하였음.<p><p>
 멀티 스레드를 통해 a_gui 클래스는 GUI 관련 동작과 클라이언트 연결 요청을 둘 다 처리할 수 있으며 b_server 클래스는 각 주차구역(클라이언트) 별로 연결 요청 처리 및 c_manager 클래스의 인스턴스를 생성할 수 있음.<p><p>
-c_manager 클래스는 각 클라이언트와 소켓으로 통신하여 데이터를 주고받으며 DB에 주차 기록을 저장하거나 수정하고 DB를 조회하여 위반 차량 판단 등의 동작을 수행함.
+c_manager 클래스는 각 클라이언트와 소켓으로 통신하여 데이터를 주고받으며 DB에 주차 기록을 저장하거나 수정하고 차량번호로 DB를 조회하여 해당 차량이 위반 차량인지 판단하는 등의 동작을 수행함.
 
 ### GUI
 모든 운영체제에 동일한 GUI를 제공하기 위해 네이티브 UI를 사용하지 않는 Swing으로 GUI를 개발하였음.
@@ -83,10 +83,13 @@ Tesseract-OCR 엔진을 Python에서 사용할 수 있게 해주는 pytesseract 
 
 ---
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><p>
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f9724c4c-1607-46c8-b9a6-38bae6d9a248" width="800"/><p>
 
-> 주차장 모형
+> 주차장 후면 모형
+
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/9a00fffe-adf4-45b7-8aaa-9a706d6579f3" width="800"/><p>
+
+> 주차장 전면 모형
 
 ### 주차 판단
 초음파센서(HC-SR04)로 거리 변화를 감지하여 주차를 판단하고 웹캠과 OpenCV 라이브러리로 차량 모습을 캡처.
