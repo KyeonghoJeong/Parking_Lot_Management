@@ -35,19 +35,19 @@ Raspberry Pi를 이용한 사물인터넷 구현<br>
 
 - 본인
 
-관리자용 PC 프로그램 기능 및 GUI 디자인<br>
-관리자용 PC 프로그램 Java 프로그래밍<br>
-라즈베리파이 동작 과정 설계<br>
-라즈베리파이 Python 프로그래밍
+> 관리자용 PC 프로그램 기능 및 GUI 디자인<br>
+> 관리자용 PC 프로그램 Java 프로그래밍<br>
+> 라즈베리파이 동작 과정 설계<br>
+> 라즈베리파이 Python 프로그래밍
 
 - 팀원
 
-OpenCV & Pytesseract 번호판 인식 및 검출<br>
-모형 디자인 및 제작<br>
-프로그램 디버깅<br>
-프로그램 실행 및 성능 평가<br>
-졸업작품전시회 출품 및 결과 발표<br>
-졸업작품 연구 보고서 작성 및 제출
+> OpenCV & Pytesseract 번호판 인식 및 검출<br>
+> 모형 디자인 및 제작<br>
+> 프로그램 디버깅<br>
+> 프로그램 실행 및 성능 평가<br>
+> 졸업작품전시회 출품 및 결과 발표<br>
+> 졸업작품 연구 보고서 작성 및 제출
 
 ## 4. 기술 스택
 
@@ -102,12 +102,12 @@ GUI: Java Swing WindowBuilder로 구현<br>
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><br>
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><br>
 
-로그인 기능<br>
-위반 차량 판단<br>
-주차장 전체 스트리밍 재생<br>
-주차 기록 차량 정보 조회 및 주차 당시 동영상 재생<br>
-전체/금일/현재/위반/특정 날짜 별 주차 기록 조회<br>
-차량 정보 조회/등록/수정/삭제
+> 로그인 기능<br>
+> 위반 차량 판단<br>
+> 주차장 전체 스트리밍 재생<br>
+> 주차 기록 차량 정보 조회 및 주차 당시 동영상 재생<br>
+> 전체/금일/현재/위반/특정 날짜 별 주차 기록 조회<br>
+> 차량 정보 조회/등록/수정/삭제
 
 ---
 
@@ -115,10 +115,10 @@ GUI: Java Swing WindowBuilder로 구현<br>
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/><br>
 
-주차 판단<br>
-번호판 인식<br>
-LED 및 음성 메시지 알림<br>
-출차 판단
+> 주차 판단<br>
+> 번호판 인식<br>
+> LED 및 음성 메시지 알림<br>
+> 출차 판단
 
 ## 7. 데모 영상
 
