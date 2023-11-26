@@ -57,11 +57,16 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/b6537ae0-4e30-45bf-8099-2dab52383b57" width="500"><br>
 
-Java 서버: 소켓으로 연결된 각 주차구역 클라이언트를 멀티 스레드로 처리<br><br>
-Python 클라이언트: 주차구역을 클래스로 정의하고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 처리<br><br>
-MySQL: 로그인 처리, 조건에 맞는 주차기록을 테이블에 출력, 차량 정보 등록/조회/수정/삭제, 위반 여부 기록<br><br>
-GUI: Java Swing WindowBuilder로 구현<br><br>
-동영상 재생: EmbeddedMediaPlayerComponent 객체 생성으로 재생
+#### Java 서버
+소켓으로 연결된 각 주차구역 클라이언트를 멀티 스레드로 처리
+#### Python 클라이언트
+주차구역을 클래스로 정의하고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 처리
+#### MySQL
+로그인 처리, 조건에 맞는 주차기록을 테이블에 출력, 차량 정보 등록/조회/수정/삭제, 위반 여부 기록
+#### GUI
+Java Swing WindowBuilder로 구현
+#### 동영상 재생
+EmbeddedMediaPlayerComponent 객체 생성으로 재생
 
 ---
 
