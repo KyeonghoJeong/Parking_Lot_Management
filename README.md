@@ -83,15 +83,17 @@ GUI: Java Swing WindowBuilder로 구현<br><br>
 
 ## 6. 주요 기능
 
-- #### 관리자 프로그램 (Java 서버)
-
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><br>
+
+#### 관리자 프로그램 (Java 서버)
 
 - 로그인 기능
 
 ---
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><br>
+
+#### 관리자 프로그램 (Java 서버)
 
 - 위반 차량 판단
 - 주차장 전체 스트리밍 재생
@@ -101,9 +103,9 @@ GUI: Java Swing WindowBuilder로 구현<br><br>
 
 ---
 
-- #### 주차구역 (Raspberry Pi Python 클라이언트)
-
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/><br>
+
+#### 주차구역 (Raspberry Pi Python 클라이언트)
 
 - 주차 판단
 - 번호판 인식
