@@ -69,7 +69,7 @@ Java, Java Swing, MySQL, Raspberry Pi, Python, OpenCV, Tesseract
 로그인 기능, 메뉴별 주차 기록 조회, 차량 정보 등록/조회/수정/삭제, 주차 기록 저장/수정, 위반 여부 기록 등의 기능을 구현할 때 데이터베이스를 사용하였으며 DBMS로 MySQL을 활용하였음.
 
 ### Python 클라이언트
-Raspberry Pi에서 Python으로 주차구역의 모든 기능을 하나의 클래스로 구현하였고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 동작하도록 하였음.
+Raspberry Pi에서 Python으로 주차구역의 모든 기능을 하나의 클래스에 정의하였고 각 주차구역을 인스턴스로 생성하여 멀티 스레드로 동작하도록 하였음.
 
 ### Raspberry Pi
 Raspberry Pi에 초음파센서(HC-SR04)를 연결하고 거리 변화를 감지하여 이를 주차 및 출차 판단에 활용하였음.<p><p>
