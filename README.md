@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6e555a40-3758-43a5-8fdf-33c6bd0122d0" width="25"/> 번호판 인식을 통한 장애인 주차구역 관리 시스템</h1>
+<h2><img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6e555a40-3758-43a5-8fdf-33c6bd0122d0" width="25"/> 번호판 인식을 통한 장애인 주차구역 관리 시스템</h2>
 
 목차
 ----
