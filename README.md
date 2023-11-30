@@ -96,36 +96,31 @@ OpenCV 라이브러리를 활용한 이미지 프로세싱으로 주차 차량 �
 
 ## 6. 주요 기능
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/6d66b3b0-9267-4718-9fd7-b004ffc48ce0" width="500"/><p>
+- #### 관리자 프로그램 (Java 서버)
 
-> 관리자 프로그램 (Java 서버)
-
-- 로그인 기능
+    로그인 기능
+    위반 차량 판단
+    주차장 전체 스트리밍 재생
+    주차 기록 차량 정보 조회 및 주차 당시 동영상 재생
+    전체/금일/현재/위반/특정 날짜 별 주차 기록 조회
+    차량 정보 조회/등록/수정/삭제
 
 ---
+
+- #### Raspberry Pi Python 클라이언트 (주차구역)
+
+    주차 판단
+    번호판 인식
+    LED 안내 및 음성 경고
+    출차 판단
+
+## 7. 데모 영상
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><p>
 
-> 관리자 프로그램 (Java 서버)
-
-- 위반 차량 판단
-- 주차장 전체 스트리밍 재생
-- 주차 기록 차량 정보 조회 및 주차 당시 동영상 재생
-- 전체/금일/현재/위반/특정 날짜 별 주차 기록 조회
-- 차량 정보 조회/등록/수정/삭제
+> 관리자 프로그램 GUI
 
 ---
-
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/f43f1365-b712-49e4-b348-cdf26545298d" width="500"/><p>
-
-> 주차구역 (Raspberry Pi Python 클라이언트)
-
-- 주차 판단
-- 번호판 인식
-- LED 안내 및 음성 경고
-- 출차 판단
-
-## 7. 데모 영상
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bb201f6c-ee81-4faa-a223-bd2a79efbcc8"/><p>
 
