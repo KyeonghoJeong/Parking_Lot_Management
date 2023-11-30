@@ -13,7 +13,7 @@
 
 ## 1. 프로젝트 소개
 
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/a1af6660-f366-4676-8137-401f0dd4e711" width="500"/><p>
+<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><p>
 
 > 줄지 않는 장애인 주차구역 위반 건수 2018년 414,409건 (출처: 보건복지부 제출자료)
 
@@ -113,12 +113,6 @@ OpenCV 라이브러리를 활용한 이미지 프로세싱으로 주차 차량 �
     출차 판단
 
 ## 7. 데모 영상
-
-<img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/011f207b-b719-40bf-a92b-42ceb97fd17e" width="800"/><p>
-
-> 관리자 프로그램 GUI
-
----
 
 <img src="https://github.com/KyeonghoJeong/Parking_Lot_Management/assets/128965451/bb201f6c-ee81-4faa-a223-bd2a79efbcc8"/><p>
 
